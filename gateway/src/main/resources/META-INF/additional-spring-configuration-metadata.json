@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "rate.limit.maxRequestsPerMinute",
+    "type": "java.lang.String",
+    "description": "A description for 'rate.limit.maxRequestsPerMinute'"
+  },
+  {
+    "name": "rate.limit.resetTimeInSeconds",
+    "type": "java.lang.String",
+    "description": "A description for 'rate.limit.resetTimeInSeconds'"
+  }
+]}
